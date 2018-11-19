@@ -30,6 +30,6 @@ StaticImageInfo = {
   "image": 3, 
   "url": "./Village Map.png",
   "alttext": "Village Map",
-  "width": 930,
-  "height": 710
+  "width": 980,
+  "height": 730
 };
