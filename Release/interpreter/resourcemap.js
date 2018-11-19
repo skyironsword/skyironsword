@@ -26,4 +26,10 @@
    python blorbtool.py GAME.materials/Release/GAME.gblorb giload GAME.materials/Release/interpreter interpreter
 */
 
-StaticImageInfo = {};
+StaticImageInfo = {
+  "image": 3, 
+  "url": "./Village Map.png",
+  "alttext": "Village Map",
+  "width": 930,
+  "height": 710
+};
