@@ -1,9 +1,11 @@
-Inversion of Self, Release 2.
-11/19/2018, 12:06 PM
+Inversion of Self, Release 3.
+11/20/2018, 11:52 PM
 
 Bad Endings: 2
 Good Endings: 2
 
 Changelog:
--Village map added.
--Fixed some textual issues.
+-Fixed even more textual issues.
+-Orb now resists reversing instead of having no opposite.
+-Added response for attacking people.
+-Added village map imgur link for interpreters that can't display images.
